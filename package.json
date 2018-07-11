@@ -1,0 +1,29 @@
+{
+  "name": "commander-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit for commander.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flubbex/commander-starter-kit.git"
+  },
+  "keywords": [
+    "commander.js",
+    "starter",
+    "kit",
+    "commander"
+  ],
+  "author": "Flubbex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Flubbex/commander-starter-kit/issues"
+  },
+  "homepage": "https://github.com/Flubbex/commander-starter-kit#readme",
+  "dependencies": {
+    "commander": "^2.16.0",
+    "require-all": "^3.0.0"
+  }
+}
