@@ -1,5 +1,5 @@
 # commander-starter-kit
-Starting kit for Commander.js applications
+Starting kit for Commander.js CLI's
 
 ## Usage
 Creating a new command:
